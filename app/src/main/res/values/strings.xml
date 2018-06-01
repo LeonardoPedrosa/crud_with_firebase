@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Firebase Dog</string>
+    <string name="botao_logar">Logar</string>
+    <string name="texto_cadastro">Não tem conta?Cadastre-se</string>
+    <string name="botao_cadastrar">Cadastrar</string>
+    <string name="sair">Sair</string>
+</resources>
